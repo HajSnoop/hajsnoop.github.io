@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: tutorial
+category: introduction
 title:  "حلقه ها در کاتلین"
-date:   1970-01-01 08:00
-categories: jekyll
+permalink: /tutorials/introduction/loops-in-kotlin
 ---
 
 <div dir="rtl" markdown="1" >
@@ -18,15 +18,11 @@ categories: jekyll
 
 </div>
 
-<div dir="ltr" markdown="1">
-
 ```kotlin
 for(a:Int in 1..100){
     println(a)
 }
 ```
-
-</div>
 
 <div dir="rtl" markdown="1">
 

@@ -29,7 +29,7 @@ header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     درباره: /about/
     Category: /category/
-    Donate: https://laobubu.net/donate.html
+    دوره ها: /tutorials/
 
 permalink: /archivers/:title
 plugins:
@@ -57,3 +57,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
   math_engine: mathjax
+
+collections:
+  tutorials:
+    output: true
+    permalink: /tutorials/:path/
