@@ -5,7 +5,10 @@ category: introduction
 permalink: /tutorials/introduction/why-kotlin
 ---
 
+
 <div dir="rtl" markdown="1">
+
+
 
 خب اول باید شروع کنیم بگیم چرا کاتلین و چرا اصلا باید سمت این زبان برنامه نویسی بریم.
 ابتدا باید بگیم که پروژه کاتلین در سال 2010 توسط شرکت JetBrains شروع شد. در اون زمان ما نیاز به یک زبونی داشتیم که 

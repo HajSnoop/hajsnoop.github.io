@@ -5,7 +5,10 @@ category: introduction
 permalink: /tutorials/introduction/introduction-to-jvm
 ---
 
+
 <div dir="rtl" markdown="1">
+
+
 
 خب، Java Virtual Machine یک ماشین انتزائیه که برنامه های Java رو اجرا میکنه ولی این محیط از چند بخش تشکیل شده؛ به عنوان مثال برای اجرای برنامه های جاوا ما نیاز به یک محیطی داریم که بتونیم توش برنامه های جاوامون رو اجرا کنیم که اون محیط  JRE و یا Java Runtime Environment نام داره همچنین برای توسعه برنامه های جاوا ما نیاز به JDK و یا Java Development Kit داریم که با این کیت بتونیم برنامه های جاوامون رو توسعه بدیم.
 
