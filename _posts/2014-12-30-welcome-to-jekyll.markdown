@@ -21,11 +21,12 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 GitHub Flavored Markdown is supported.
 
-```kotlin
+<pre class="kotlin-code" data-target-platform="jvm" theme="idea">
 fun main(){
-  println("Hello, World!")
+    println("Hello, World!")
 }
-```
+</pre>
+
 
 And $$\mathcal{ Mathematics }$$ is supported!
 
