@@ -10,8 +10,8 @@ description: >
 email: your_email@example.com
 author: کاتلین فارسی
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-twitter_username: @kotlinfarsi
-github_username:  @kotlinfarsi
+twitter_username: "@kotlinfarsi"
+github_username:  "@kotlinfarsi"
 profile_links:
   Email: "mailto:your_email@example.com"
   GitHub: "https://github.com/kotlinfarsi"
