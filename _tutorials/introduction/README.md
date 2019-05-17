@@ -1,3 +1,10 @@
+---
+layout: tutorial
+title: "فهرست"
+category: introduction
+permalink: /tutorials/introduction/index
+---
+
 <div dir="rtl" markdown="1">
 
 # فهرست
