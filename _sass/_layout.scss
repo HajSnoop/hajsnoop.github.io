@@ -27,14 +27,14 @@ body {
     #sidebar-toggle { display: none; }
 
 	.site-title {
-		float: left;
+		float: right;
 		color: $header-fg;
 		text-decoration: none;
 		font-size: $base-font-size;
 		line-height: $base-font-size * 2;
 	}
 	.site-nav {
-		text-align:right;
+		text-align:left;
 		
 		a {
 			text-decoration: none;
@@ -87,7 +87,7 @@ $hide-sidebar-screen-width: 1120px;
 
 	.wrapper {
 		position: relative;
-		background: #FAFAFA;
+		background: #FFFFFF;
 		box-shadow: 0 1px 4px #999;
 		outline: 1px solid #CCC;
 		&:after {

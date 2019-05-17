@@ -11,7 +11,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        
+
         <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
 
         <div class="post-excerpt">
@@ -19,25 +19,25 @@ layout: default
           {%   else %}{{ post.content | lstrip | split: "
 " | first }}{% endif %}
           <p>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More &raquo;</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">خواندن مطلب &raquo;</a>
           </p>
         </div>
       </li>
     {% endfor %}
   </ul>
-  
+
   <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">PREV</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">قبلی</a>
   {% else %}
-    <span class="previous">PREV</span>
+    <span class="previous">قبلی</span>
   {% endif %}
-  <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page_number " >{{ paginator.page }} از {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">NEXT</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">بعدی</a>
   {% else %}
-    <span class="next ">NEXT</span>
+    <span class="next ">بعدی</span>
   {% endif %}
 </div>
 

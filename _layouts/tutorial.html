@@ -2,16 +2,6 @@
 layout: default
 ---
 
-<nav>
-    <ul>
-        {% for tutorial in site.tutorials %}
-            <li>
-                <a href="{{site.baseurl}}{{tutorial.permalink}}" class="{% if page.url contains tutorial.slug %}current{% endif %}">{{tutorial.title}}</a>
-            </li>
-        {% endfor %}
-    </ul>
-</nav>
-
 <div class="post" dir="ltr">
 
     <header class="post-header" dir="rtl">

@@ -28,10 +28,28 @@
   <div class="col-box-title">TOC</div>
 </div> -->
 
+{% if page.layout == "tutorial" %}
+<nav>
+    <ul>
+        {% for tutorial in site.tutorials %}
+        <li>
+            <a style="{% if page.url == tutorial.url %}color:red;{% endif %}"
+               href="{{site.baseurl}}{{tutorial.permalink}}"
+               class="{% if page.url contains tutorial.slug %}current{% endif %}">{{tutorial.title}}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+{% endif %}
 
-<div dir="rtl">
-  {% for post in site.posts %}
-    <li><a style="{% if page.url == post.url %}color:red;{% endif %}" href="{{ post.url }}" >{{ post.title }}</a></li>
-  {% endfor %}
-
-</div>
+{% if page.layout == "post" %}
+<nav>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <a style="{% if page.url == post.url %}color:red;{% endif %}" href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</nav>
+{% endif %}

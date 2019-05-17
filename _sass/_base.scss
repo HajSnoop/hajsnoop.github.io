@@ -13,10 +13,10 @@ a:hover, a:focus {
 	color: #069;
 }
 blockquote {
-	background: #FFF;
+	background: #f8f8f8;
 	margin:0;
 	padding: 5px 20px;
-	border-left: 10px solid #CCC;
+	border-right: 10px solid #f66;
 }
 code,pre {
 	font-family:  $code-font-family;
@@ -37,7 +37,7 @@ pre, pre code {
 	background-color: #223;
 }
 pre code {
-	padding: 0;	
+	padding: 0;
 }
 .hide {
     display: none;
@@ -56,14 +56,14 @@ table {
 		padding: 5px 15px;
 		margin: 0;
 	}
-	
+
 	th {
 		border-color: #555;
 		background: #555;
 		color: #eee;
 		font-weight:normal;
 	}
-	
+
 	tr:hover {
 		background: rgba(255,255,0,0.2);
 	}
