@@ -9,36 +9,37 @@ permalink: /tutorials/
 
     <ul class="post-list">
 
-        <!--{% capture tutorials %}{% for tutorial in site.tutorials %}{{ tutorial | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}-->
-        <!--{% assign tutorial = tutorials | split:',' | sort %}-->
-        <!--{% for item in (0..site.categories.size) %}{% unless forloop.last %}-->
-        <!--{% capture word %}{{ category[item] | strip_newlines }}{% endcapture %}-->
-        <!--<h2 class="category" id="{{ word }}">{{ word | upcase }}</h2>-->
-        <!--<ul>-->
-        <!--{% for post in site.categories[word] %}{% if post.title != null %}-->
-        <!--<li><span>{{ post.date | date: "%b %d" }}</span> » <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>-->
-        <!--{% endif %}{% endfor %}-->
-        <!--</ul>-->
-        <!--{% endunless %}{% endfor %}-->
 
-<!--        {% for tutorial in site.tutorials %}-->
-<!--            {% if tutorial.category == "introduction" %}-->
-<!--                <li>-->
-<!--                    <a href="{{ site.baseurl }}{{ tutorial.permalink }}">{{ tutorial.title }}</a>-->
-<!--                </li>-->
-<!--            {% endif %}-->
-<!--        {% endfor %}-->
 
-<!--        {% for tutorial in site.tutorials %}-->
-<!--            {% if tutorial.category == "android" %}-->
-<!--                <li>-->
-<!--                    <a href="{{ site.baseurl }}{{ tutorial.permalink }}">{{ tutorial.title }}</a>-->
-<!--                </li>-->
-<!--            {% endif %}-->
-<!--        {% endfor %}-->
+        <li>
+            <strong>
+                <a href="{{ site.baseurl }}/tutorials/introduction/welcome-to-the-course">دوره مقدماتی کاتلین</a>
+            </strong>
+        </li>
 
-        <a href="{{ site.baseurl }}/tutorials/introduction/welcome-to-the-course">دوره مقدماتی کاتلین</a>-->
+        <li>
+            <strong>
+                <a >دوره پیشرفته کاتلین</a>
+            </strong>
+        </li>
 
+        <li>
+            <strong>
+                <a >دوره اندروید</a>
+            </strong>
+        </li>
+
+        <li>
+            <strong>
+                <a >دوره کاتلین/JS</a>
+            </strong>
+        </li>
+
+        <li>
+            <strong>
+                <a >دوره کاتلین/Native</a>
+            </strong>
+        </li>
 
     </ul>
 
