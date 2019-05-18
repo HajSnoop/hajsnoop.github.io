@@ -3,6 +3,7 @@ layout: post
 title:  "گزارش مراسم کاتلین 1.1"
 date:   2017-04-06 00:00:00
 categories: post
+editlink: https://github.com/KotlinFarsi/KotlinFarsi-WebSite/edit/master/_post/2017-4-6-kotlin-1-1-event-report/2017-4-6-kotlin-1-1-event-report.md
 ---
 <div dir="rtl" markdown="1">
 

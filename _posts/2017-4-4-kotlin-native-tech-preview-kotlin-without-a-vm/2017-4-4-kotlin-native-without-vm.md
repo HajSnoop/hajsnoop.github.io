@@ -3,6 +3,7 @@ layout: post
 title:  "کاتلین/نیتیو بررسی تکنولوژی : کاتلین بدون نیاز به VM"
 date:   2017-04-04 00:00:00
 categories: post
+editlink: https://github.com/KotlinFarsi/KotlinFarsi-WebSite/edit/master/_post/2017-4-4-kotlin-native-without-vm/2017-4-4-kotlin-native-without-vm.md
 ---
 
 <div dir="rtl" markdown="1">
