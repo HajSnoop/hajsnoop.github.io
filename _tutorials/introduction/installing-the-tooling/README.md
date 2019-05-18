@@ -2,7 +2,7 @@
 layout: tutorial
 title: "نصب کردن ابرازآلات"
 category: introduction
-permalink: /tutorials/introduction/installing-the-tooling
+permalink: /tutorials/introduction/installing-the-tooling/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: tutorial
 title: "ارث بری در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/inheritance-in-kotlin
+permalink: /tutorials/introduction/inheritance-in-kotlin/
 ---
 
 

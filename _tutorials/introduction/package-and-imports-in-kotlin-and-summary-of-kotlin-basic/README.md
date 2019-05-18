@@ -2,7 +2,7 @@
 layout: tutorial
 title: "اضافه کردن پگیج ها در کاتلین و خلاصه بخض سوم"
 category: introduction
-permalink: /tutorials/introduction/package-and-imports-in-kotlin-and-summary-of-kotlin-basic
+permalink: /tutorials/introduction/package-and-imports-in-kotlin-and-summary-of-kotlin-basic/
 ---
 
 

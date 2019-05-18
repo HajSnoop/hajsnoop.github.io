@@ -2,7 +2,7 @@
 layout: tutorial
 title: "annotation ها در کاتلین و خلاصه بخش هشت"
 category: introduction
-permalink: /tutorials/introduction/annotations-in-kotlin-and-summary
+permalink: /tutorials/introduction/annotations-in-kotlin-and-summary/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کلاس ها در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/classes-in-kotlin
+permalink: /tutorials/introduction/classes-in-kotlin/
 ---
 
 

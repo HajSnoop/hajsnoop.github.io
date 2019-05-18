@@ -16,9 +16,9 @@ categories: post
 البته هنوز نسخه کاملا عملی نیست! (این مقاله مربوط به 4 آپریل 2017 است) ولی به اندازه ای قابل استفاده است که بتونید با این تکنولوژی بازی کنید و حتی میتونید اگر خواستین به [سرس کدش](https://github.com/JetBrains/kotlin-native/) نگاه بندازین.
 
 
-
-![KotlinNative](\assets\img\posts\2017-4-4-kotlin-native-tech-preview-kotlin-without-a-vm\kotlin-native.png)
-
+<p style="width: calc(100% + 60px);">
+<img src="\assets\img\posts\2017-4-4-kotlin-native-tech-preview-kotlin-without-a-vm\kotlin-native.png" />
+</p>
 
 
 **هدف :**

@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کاتلین REPL"
 category: introduction
-permalink: /tutorials/introduction/the-kotlin-repl
+permalink: /tutorials/introduction/the-kotlin-repl/
 ---
 
 

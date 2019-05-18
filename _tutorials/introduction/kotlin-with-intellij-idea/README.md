@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کاتلین با IntelliJ IDEA"
 category: introduction
-permalink: /tutorials/introduction/kotlin-with-intellij-idea
+permalink: /tutorials/introduction/kotlin-with-intellij-idea/
 ---
 
 

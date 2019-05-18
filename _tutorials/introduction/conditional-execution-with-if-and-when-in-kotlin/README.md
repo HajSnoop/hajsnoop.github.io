@@ -2,7 +2,7 @@
 layout: tutorial
 title: "عبارت های شرطی در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/conditional-execution-with-if-and-when-in-kotlin
+permalink: /tutorials/introduction/conditional-execution-with-if-and-when-in-kotlin/
 ---
 
 

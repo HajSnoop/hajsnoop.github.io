@@ -2,7 +2,7 @@
 layout: tutorial
 title: "constant ها"
 category: introduction
-permalink: /tutorials/introduction/declaring-constants
+permalink: /tutorials/introduction/declaring-constants/
 ---
 
 

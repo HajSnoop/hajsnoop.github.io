@@ -2,7 +2,7 @@
 layout: tutorial
 title: "آشنایی با JVM"
 category: introduction
-permalink: /tutorials/introduction/introduction-to-jvm
+permalink: /tutorials/introduction/introduction-to-jvm/
 ---
 
 

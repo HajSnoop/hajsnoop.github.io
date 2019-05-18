@@ -2,7 +2,7 @@
 layout: tutorial
 title: "closure ها در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/closures-in-kotlin
+permalink: /tutorials/introduction/closures-in-kotlin/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: tutorial
 title: "توابع در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/functions-in-kotlin
+permalink: /tutorials/introduction/functions-in-kotlin/
 ---
 
 

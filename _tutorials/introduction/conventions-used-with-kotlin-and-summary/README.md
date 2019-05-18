@@ -2,7 +2,7 @@
 layout: tutorial
 title: "خلاصه بخش دوم"
 category: introduction
-permalink: /tutorials/introduction/conventions-used-with-kotlin-and-summary
+permalink: /tutorials/introduction/conventions-used-with-kotlin-and-summary/
 ---
 
 

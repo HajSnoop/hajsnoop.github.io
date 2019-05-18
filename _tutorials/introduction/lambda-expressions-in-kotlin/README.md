@@ -2,7 +2,7 @@
 layout: tutorial
 title: "عبارت های لاندا در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/lambda-expressions-in-kotlin
+permalink: /tutorials/introduction/lambda-expressions-in-kotlin/
 ---
 
 

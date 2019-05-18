@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کار کردن با exception ها"
 category: introduction
-permalink: /tutorials/introduction/working-with-exceptions
+permalink: /tutorials/introduction/working-with-exceptions/
 ---
 
 

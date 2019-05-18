@@ -2,7 +2,7 @@
 layout: tutorial
 title: "توابعِ عضو در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/member-functions-in-kotlin
+permalink: /tutorials/introduction/member-functions-in-kotlin/
 ---
 
 

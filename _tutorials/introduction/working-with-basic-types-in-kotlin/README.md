@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کار با Type های پایه ای"
 category: introduction
-permalink: /tutorials/introduction/working-with-basic-types-in-kotlin
+permalink: /tutorials/introduction/working-with-basic-types-in-kotlin/
 ---
 
 

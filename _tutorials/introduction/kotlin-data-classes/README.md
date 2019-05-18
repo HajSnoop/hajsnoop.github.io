@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کلاس های دیتا در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/kotlin-data-classes
+permalink: /tutorials/introduction/kotlin-data-classes/
 ---
 
 

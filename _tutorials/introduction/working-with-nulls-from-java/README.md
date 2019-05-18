@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کار کردن با null ها از جاوا"
 category: introduction
-permalink: /tutorials/introduction/working-with-nulls-from-java
+permalink: /tutorials/introduction/working-with-nulls-from-java/
 ---
 
 

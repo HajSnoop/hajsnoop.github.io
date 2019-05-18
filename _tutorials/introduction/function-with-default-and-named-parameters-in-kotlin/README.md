@@ -2,7 +2,7 @@
 layout: tutorial
 title: "تابع با پارامترهای پیشفرض و نامیده شده"
 category: introduction
-permalink: /tutorials/introduction/function-with-default-and-named-parameters-in-kotlin
+permalink: /tutorials/introduction/function-with-default-and-named-parameters-in-kotlin/
 ---
 
 

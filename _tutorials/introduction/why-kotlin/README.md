@@ -2,7 +2,7 @@
 layout: tutorial
 title: "چرا کاتلین"
 category: introduction
-permalink: /tutorials/introduction/why-kotlin
+permalink: /tutorials/introduction/why-kotlin/
 ---
 
 

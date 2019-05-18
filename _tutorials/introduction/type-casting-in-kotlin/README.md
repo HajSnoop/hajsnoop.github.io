@@ -2,7 +2,7 @@
 layout: tutorial
 title: "type casting در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/type-casting-in-kotlin
+permalink: /tutorials/introduction/type-casting-in-kotlin/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: tutorial
 title: "همکاری با جاوا 7 و 8 و خلاصه بخش دهم"
 category: introduction
-permalink: /tutorials/introduction/interop-with-java-7-and-8-and-summary
+permalink: /tutorials/introduction/interop-with-java-7-and-8-and-summary/
 ---
 
 

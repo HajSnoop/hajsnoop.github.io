@@ -2,7 +2,7 @@
 layout: tutorial
 title: "ساختار یک برنامه کاتلین"
 category: introduction
-permalink: /tutorials/introduction/the-structure-of-kotlin-application
+permalink: /tutorials/introduction/the-structure-of-kotlin-application/
 ---
 
 

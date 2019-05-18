@@ -2,7 +2,7 @@
 layout: tutorial
 title: "deconstructing values"
 category: introduction
-permalink: /tutorials/introduction/deconstructing-values
+permalink: /tutorials/introduction/deconstructing-values/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: tutorial
 title: "صحبت کردن با کاتلین از جاوا"
 category: introduction
-permalink: /tutorials/introduction/talking-to-kotlin-from-java
+permalink: /tutorials/introduction/talking-to-kotlin-from-java/
 ---
 
 

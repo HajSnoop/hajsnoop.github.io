@@ -2,7 +2,7 @@
 layout: tutorial
 title: "چندتایی ها (Tuples)"
 category: introduction
-permalink: /tutorials/introduction/tuples
+permalink: /tutorials/introduction/tuples/
 ---
 
 

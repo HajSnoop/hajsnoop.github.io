@@ -2,7 +2,7 @@
 layout: tutorial
 title: "به دوره خوش آمدید"
 category: introduction
-permalink: /tutorials/introduction/welcome-to-the-course
+permalink: /tutorials/introduction/welcome-to-the-course/
 ---
 
 

@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کارکردن با کلاس های abstract در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/working-with-abstract-classes-in-kotlin
+permalink: /tutorials/introduction/working-with-abstract-classes-in-kotlin/
 ---
 
 

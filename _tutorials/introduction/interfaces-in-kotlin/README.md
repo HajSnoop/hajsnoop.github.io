@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کلاس های interface در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/interfaces-in-kotlin
+permalink: /tutorials/introduction/interfaces-in-kotlin/
 ---
 
 

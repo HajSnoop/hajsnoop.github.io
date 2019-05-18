@@ -2,7 +2,7 @@
 layout: tutorial
 title: "کلاس های enum در کاتلین"
 category: introduction
-permalink: /tutorials/introduction/enum-classes-in-kotlin
+permalink: /tutorials/introduction/enum-classes-in-kotlin/
 ---
 
 

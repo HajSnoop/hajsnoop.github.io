@@ -2,7 +2,7 @@
 layout: tutorial
 title: "توابع Higher-Order"
 category: introduction
-permalink: /tutorials/introduction/higher-order-functions-in-kotlin
+permalink: /tutorials/introduction/higher-order-functions-in-kotlin/
 ---
 
 

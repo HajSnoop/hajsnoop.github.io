@@ -2,7 +2,7 @@
 layout: tutorial
 title: "توابع الحاقی کاتلین از جاوا"
 category: introduction
-permalink: /tutorials/introduction/extension-functions-from-java
+permalink: /tutorials/introduction/extension-functions-from-java/
 ---
 
 
