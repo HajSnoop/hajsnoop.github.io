@@ -3,6 +3,7 @@ layout: tutorial
 title: "چندتایی ها (Tuples)"
 category: introduction
 permalink: /tutorials/introduction/tuples/
+editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/edit/master/src/tuples/README.md
 ---
 
 

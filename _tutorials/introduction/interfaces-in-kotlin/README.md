@@ -3,6 +3,7 @@ layout: tutorial
 title: "کلاس های interface در کاتلین"
 category: introduction
 permalink: /tutorials/introduction/interfaces-in-kotlin/
+editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/edit/master/src/interfaces-in-kotlin/README.md
 ---
 
 

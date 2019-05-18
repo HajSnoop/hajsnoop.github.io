@@ -3,6 +3,7 @@ layout: tutorial
 title: "صحبت کردن با کاتلین از جاوا"
 category: introduction
 permalink: /tutorials/introduction/talking-to-kotlin-from-java/
+editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/edit/master/src/talking-to-kotlin-from-java/README.md
 ---
 
 

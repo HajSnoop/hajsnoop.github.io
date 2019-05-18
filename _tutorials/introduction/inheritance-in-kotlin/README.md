@@ -3,6 +3,7 @@ layout: tutorial
 title: "ارث بری در کاتلین"
 category: introduction
 permalink: /tutorials/introduction/inheritance-in-kotlin/
+editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Introduction/edit/master/src/inheritance-in-kotlin/README.md
 ---
 
 

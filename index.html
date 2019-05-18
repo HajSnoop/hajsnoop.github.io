@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">پست ها</h1>
+  <h1 class="page-heading">مقاله ها</h1>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
@@ -29,15 +29,15 @@ layout: default
   <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">قبلی</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">بعدی</a>
   {% else %}
-    <span class="previous">قبلی</span>
+    <span class="previous">بعدی</span>
   {% endif %}
   <span class="page_number " >{{ paginator.page }} از {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">بعدی</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">قبلی</a>
   {% else %}
-    <span class="next ">بعدی</span>
+    <span class="next ">قبلی</span>
   {% endif %}
 </div>
 

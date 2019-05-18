@@ -5,6 +5,10 @@ body {
   line-height: $base-line-height;
 }
 
+p, li, a {
+  text-align: justify;
+}
+
 a {
   text-decoration: none;
   color: #036;
