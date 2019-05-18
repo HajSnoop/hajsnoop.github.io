@@ -35,7 +35,9 @@ fun main(args: Array<String>) {
 
 در اینجا کاتلین به صورت دیفالت میاد و مقدار اون enum رو به String تبدیل و چاپ میکنه.
 
+<p style="width: calc(100% + 60px);">
 <img src="/assets/img/introduction/enum-classes-in-kotlin/result-1.PNG" />
+</p>
 
 خب حالا فرض کنین میخوایم هر کدوم از enum هامون یک مقدار داشته باشن، یعنی یک خصیصه داشته باشیم به نام value و مثلا وقتی به NORMAL دسترسی پیدا کردیم، مقدار اونو بخونیم.
 
@@ -129,7 +131,9 @@ fun main(args: Array<String>) {
 
 درواقع تابع values() میاد و یک لیست از تمومی مقدار های داخل کلاس Priority رو بهمون میده.
 
+<p style="width: calc(100% + 60px);">
 <img src="/assets/img/introduction/enum-classes-in-kotlin/result-3.PNG" />
+</p>
 
 اگه فرض کنیم بخوایم با استفاده از کلاس به مقدار یک enum دسترسی داشته باشیم از تابع valueOf() استفاده میکنیم
 

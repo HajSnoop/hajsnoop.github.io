@@ -17,7 +17,7 @@ categories: post
 
 
 
-![KotlinNative](..\..\assets\img\kotlin-native.png)
+![KotlinNative](\assets\img\posts\2017-4-4-kotlin-native-tech-preview-kotlin-without-a-vm\kotlin-native.png)
 
 
 

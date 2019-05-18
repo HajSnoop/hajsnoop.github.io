@@ -12,7 +12,9 @@ permalink: /tutorials/introduction/declaring-variables-in-kotlin
 
 خب وارد بخش پایه ای کاتلین شدیم، اولین چیزی که میخوایم در موردش صحبت کنیم اینه که چگونه متغیر ایجاد کنیم. اول بیام یک فایل کاتلین به نام Variables توی پروژمون بسازیم.
 
+<p style="width: calc(100% + 60px);">
 <img src="/assets/img/introduction/declaring-variables-in-kotlin/first-view-of-variables.PNG" />
+</p>
 
 همینطور که میبینین به خاطر ساختر پکیجم اون بالا چه طور نوشته شده. بیاین `main` رو باز کنیم.
 

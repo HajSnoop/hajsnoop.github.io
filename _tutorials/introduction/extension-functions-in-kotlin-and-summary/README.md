@@ -68,7 +68,9 @@ fun main(args: Array<String>) {
 }
 ```
 
+<p style="width: calc(100% + 60px);">
 <img src="/assets/img/introduction/extension-functions-in-kotlin-and-summary/result-1.PNG" />
+</p>
 
 <div dir="rtl" markdown="1">
 

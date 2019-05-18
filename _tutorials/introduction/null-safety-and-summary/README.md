@@ -136,7 +136,9 @@ fun main(args: Array<String>) {
 
 البته اگه کد بالا رو اجرا کنیم جواب زیر رو خواهیم داشت
 
+<p style="width: calc(100% + 60px);">
 <img src="/assets/img/introduction/null-safety-and-summary/result-1.PNG" />
+</p>
 
 چیزی که اینجا میبینین اینه که null چاپ شد، خب پس چرا null چاپ شد؟
 
