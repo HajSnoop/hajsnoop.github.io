@@ -4,6 +4,7 @@ title:  "کاتلین/نیتیو بررسی تکنولوژی : کاتلین بد
 date:   2017-04-04 00:00:00
 categories: post
 editlink: https://github.com/KotlinFarsi/KotlinFarsi-WebSite/edit/master/_post/2017-4-4-kotlin-native-without-vm/2017-4-4-kotlin-native-without-vm.md
+author: "سینا درویشی"
 ---
 
 <div dir="rtl" markdown="1">

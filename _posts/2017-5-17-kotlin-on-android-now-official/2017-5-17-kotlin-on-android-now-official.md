@@ -4,6 +4,7 @@ title:  "پشتیبانی رسمی کاتلین برای اندروید!"
 date:   2017-05-17 00:00:00
 categories: post
 editlink: https://github.com/KotlinFarsi/KotlinFarsi-WebSite/edit/master/_post/2017-5-17-kotlin-on-android-now-official/2017-5-17-kotlin-on-android-now-official.md
+author: "سینا درویشی"
 ---
 
 <div dir="rtl" markdown="1">

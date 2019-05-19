@@ -4,6 +4,7 @@ title:  "کاتلین/نیتیو v0.2 بیرون آمد!"
 date:   2017-05-12 00:00:00
 categories: post
 editlink: https://github.com/KotlinFarsi/KotlinFarsi-WebSite/edit/master/_post/2017-5-12-kotlin-native-v0-2-is-out/2017-5-12-kotlin-native-v0-2-is-out.md
+author: "سینا درویشی"
 ---
 
 <div dir="rtl" markdown="1">
