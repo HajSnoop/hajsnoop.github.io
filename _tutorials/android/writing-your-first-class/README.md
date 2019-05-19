@@ -47,7 +47,6 @@ dependencies {
         android:id="@+id/forecast_list"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
-</p>
 </FrameLayout>
 ```
 <div dir="rtl" markdown="1">

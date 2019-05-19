@@ -46,7 +46,6 @@ class Request(val url: String) {
 
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
-</p>
 ```
 
 <div dir="rtl" markdown="1">

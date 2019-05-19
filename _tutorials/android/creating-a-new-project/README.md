@@ -135,7 +135,6 @@ buildscript {
     android:text="@string/hello_world"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"/>
-</p>
 ```
 <div dir="rtl" markdown="1">
 

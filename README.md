@@ -1,55 +1,26 @@
-# jekyll-theme-EasyBook
+# KotlinFarsi-WebSite
+<div dir="rtl" markdown="1">
+**سایت جدید کاتلین فارسی**، قدرت گرفته با Jekyll
 
-Another Jekyll Blog Theme "EasyBook"
 
-Start blogging with a simple but powerful theme.
 
-## Features
+## ویژگی ها
 
-- Everything Basic Jekyll has.
-- **Pagination** is enabled.
-- **Comments** using Disqus or 多说.
-- **TOC** makes reading easier.
-- **Profile** including your links and avatar on the sidebar.
-- *And more...*
+- صفحه جدید **رادیو کاتلین**، مصاحبه هایی که با افراد موفق انجام میشود در این صفحه قرار میگیرد
+- دوره های **رایگان** آموزشی در سایت نیز قرار گرفت.
+- مقاله های خبری، آموزشی نیز در سایت قرار میگیرد و همچنین افراد مختلف که خواهان درج مقاله خود هستند نیز **میتوانند** مقاله ی خود را به نام خود به اشتراک بگذارند.
+- صفحه **کاتلین رو امتحان کن** نیز به افراد تازه وارد این امکان را میدهد که بدون نصب چیزی تنها در مرورگر بتوانند کاتلین را امتحان کنند.
 
-## Install
 
-Read [Quick Guide] to learn how to install and publish.
 
-Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
+## نحوه مشارکت
 
-**If need help, please:**
+برای مشارکت کافی است این مخزن را clone کرده و تغییرات خود را در آن وارد و سپس به صورت pull-request درخواست دهید.
 
- - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
- - **Google it**
- - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
 
-## Donate
 
-Buy me a coffee if you find EasyBook useful for you :smiley:
+## چگونه دوره خود را در کاتلین فارسی ایجاد کنم
 
-Visit <http://laobubu.net/donate.html>
+شما میتوانید دوره ی خود را درکاتلین فارسی قرار دهید و آن را چه به صورت رایگان و چه با پرداخت هزینه در اختیار دیگران قرار دهید. برای قرار دادن دوره خود کافی است یک **استاد** شوید. میتوانید به صورت مستقیم در توییتر و یا تلگرام و یا به صورت ایمیل درخواست خود را مطرح نمایید.
 
-## Demo
-
-[laobubu's blog](http://blog.laobubu.net) | [empty site](http://laobubu.github.io/jekyll-theme-EasyBook)
-
-![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)
-
-## License
-
-```
-The MIT License (MIT)
-Copyright (c) 2016 laobubu
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-```
-
-[Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
-[helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
-[jekyll]: http://jekyllrb.com/
+</div>

@@ -2,34 +2,29 @@
 title: کاتلین فارسی
 url: "http://hajsnoop.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
-#timezone: Asia/Chongqing
 description: >
   مرجع متن باز کاتلین به زبان فارسی
 
-# Your information
-email: your_email@example.com
+email: kotlinfarsi@gmail.com
 author: کاتلین فارسی
-avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
+avatar: "kotlinfarsi.png"
 twitter_username: "@kotlinfarsi"
 github_username:  "@kotlinfarsi"
 profile_links:
   Email: "mailto:your_email@example.com"
   GitHub: "https://github.com/kotlinfarsi"
-  # You can add more profile links above, or edit _includes/sidebar.html 
 
-# Comment Service (Disqus or 多说)
-#  choose one and un-comment the line to active it
+# Comment Service
 #disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
-#duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
-excerpt_separator: <!--more-->
+excerpt_separator: <!--بیشتر-->
 
 header:
-  links:             # Links on the header. Link to in-site page with a slash as prefix
+  links:
     دوره ها: /tutorials/
     مقاله ها: /
     رادیو کاتلین: /radio/
-    درباره: /about/
+    کاتلین رو امتحان کن: /try/
 
 
 permalink: /archivers/:title
