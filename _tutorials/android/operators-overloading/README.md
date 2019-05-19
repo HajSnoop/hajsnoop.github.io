@@ -9,19 +9,23 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 
 <div dir="rtl" markdown="1">
 
-#
+
 
 کاتلین تعداد مشخصی از آوپراتور های نمادین دارد که میتونیم به راحتی بر روی هر کلاسی استفاده کنیم. روشش هم ایجاد یک تابع با نام رزرو شده و مپ کردن اون به سمبله. Overload کردن این اوپراتور ها ساده نویسی و خانایی کد رو بیشتر کنه.
 
 اگر بخوایم کامپایلر رو آگاه کنیم که یک اوپراتور رو میخوایم overload کنیم، باید اون تابع رو با اصلاح کننده  `operator` مشخص کنیم.
 
-### جدول اوپراتور ها
+<div dir="rtl" markdown="1" id="جدول-اوپراتور-ها" >
+
+## جدول اوپراتور ها
+
+</div>
 
 در جدول زیر هم میتونید یک سری از جدول ها رو ببینید  که شامل اوپراتورها و دستور العمل های مطابق آن است. یک تابع که پیاده سازی شده باشد برای استفاده از آن اوپراتور در کلاس مشخص نیاز است.
 
 </div>
 
-##### Unary Operations
+**Unary Operations**
 
 |                |                               |
 |----------------|-------------------------------|
@@ -32,7 +36,7 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 |`a--`           |`a.dec()`                      |
 
 
-##### Binary Operations
+**Binary Operations**
 
 |                |                               |
 |----------------|-------------------------------|
@@ -50,7 +54,7 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 |`a /= b`        |`a.divAssign(b)`               |
 |`a %= b`        |`a.modAssign(b)`               |
 
-##### Array-like operations
+**Array-like operations**
 
 |                       |                               |
 |-----------------------|-------------------------------|
@@ -62,7 +66,7 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 |`a[i_1,..., i_n] = b`  |`a.set(i_1, …, i_n, b)`        |
 
 
-##### Equals operation
+**Equals operation**
 
 |                       |                                    |
 |-----------------------|------------------------------------|
@@ -81,7 +85,7 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 operator fun equals(other: Any?): Boolean
 ````
 
-##### Function invocation
+**Function invocation**
 
 |                       |                                    |
 |-----------------------|------------------------------------|
@@ -91,7 +95,11 @@ operator fun equals(other: Any?): Boolean
 
 <div dir="rtl" markdown="1">
 
-### یک مثال
+<div dir="rtl" markdown="1" id="یک-مثال" >
+
+## یک مثال
+
+</div>
 
 همانطور که تصور میکنید لیست های کاتلینی عملگرهای array-like ای به مانند بالا که گفته شده را دارا میباشد که در نتیجه به مانند جاوا میتونیم به آیتم های یک لیست دسترسی داشته باشیم ولی این تنها به این محدود نمیشود و در لیست های mutable (تغییرپذیر)، هر آیتم میتونه به صورت مستقیم مقدار دهی بشه.
 
@@ -141,7 +149,11 @@ override fun getItemCount(): Int = weekForecast.size()
 ```
 <div dir="rtl" markdown="1">
 
-### عملگرها در توابع الحاقی
+<div dir="rtl" markdown="1" id="عملگرها-در-توابع-الحاقی" >
+
+## عملگرها در توابع الحاقی
+
+</div>
 
 لازم نیست که به کلاس های خودمون بسنده کنیم و میتونیم کلاس هامون رو با استفاده از توابع الحاقی گسترش بدیم. به عنوان مثال میتونیم مثل روش دستیابی به لیست ها، به `ViewGroup` هامون هم دستیابی داشته باشیم:
 

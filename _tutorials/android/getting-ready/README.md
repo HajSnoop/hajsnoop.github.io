@@ -15,7 +15,11 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 
 
 
+<div dir="rtl" markdown="1" id="اندروید-استودیو" >
+
 ## اندروید استودیو
+
+</div>
 
 اولین چیزی که مسلما نیازدارین اینه که اندروید استودیو رو نصب کرده باشین. همینطور که میدونین اندروید استودیو یک محیط توسعه رسمی برای اندرویده که از سال 2013 به صورت پیشنمایشی و سال 2014 به صورت نهایی درمعرض استفاده قرارگرفت.
 
@@ -31,7 +35,11 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 
 
 
+<div dir="rtl" markdown="1" id="نصب-پلاگین-کاتلین" >
+
 ## نصب پلاگین کاتلین
+
+</div>
 
 از IntelliJ 15 پلاگین کاتلین به صورت نصب شده برروی IDEA ارائه میشه، این ممکنه که Android Studio شما هنوز این پلاگین رو نداشته باشه و لازم باشه که شما به قسمت Plugins در خود استودیو مراجعه کنین و این پلاگین رو نصب کنین.
 

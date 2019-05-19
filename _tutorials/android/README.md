@@ -1,12 +1,4 @@
----
-layout: tutorial
-title: "فهرست"
-category: android
-permalink: /tutorials/android/
-editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master/src/README.md
----
-
-<div dir="rtl" markdown="1">
+<div dir="rtl">
 
 # فهرست
 
@@ -109,5 +101,3 @@ editlink: https://github.com/KotlinFarsi/OpenSourceTutorials-Android/edit/master
 
 
 <بقیه فصل ها در حال ترجمه است>
-
-</div>
